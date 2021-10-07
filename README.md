@@ -1,2 +1,2 @@
-# DmitriyTrast.github.io
+# Дмитрий Третьяков
 Моё задание
